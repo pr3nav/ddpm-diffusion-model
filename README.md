@@ -1,20 +1,18 @@
 # DDPM with MNIST
 
-## Quick Start
-
-### Train
+## Train
 ```bash
 python training_code.py
 ```
 
-### Generate Samples
+## Generate Samples
 ```bash
 python sampling_code.py
 ```
 
 ## Files
-- `training_code.py` — Training script (Cell 3 from Colab)
-- `sampling_code.py` — Sampling/inference script (Cell 4 from Colab)
+- `training_code.py` — Training script
+- `sampling_code.py` — Sampling/inference script
 - `DDPM_README.md` — Detailed documentation
 - `requirements.txt` — Dependencies
 
