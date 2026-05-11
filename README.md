@@ -1,6 +1,4 @@
-# DDPM Diffusion Model
-
-Implementation of Denoising Diffusion Probabilistic Models (DDPM) trained on MNIST for the DALLE-EM project.
+# DDPM with MNIST
 
 ## Quick Start
 
