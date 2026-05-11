@@ -26,8 +26,8 @@ pip install -r requirements.txt
 - Final loss: 0.0151
 - Generates realistic handwritten digits from pure noise
 
-## DALLE-EM Connection
-This DDPM implementation proves the concept for EM design automation:
+## How it Connects to DALLE-EM
+This DDPM implementation is proof of concept for EM design automation:
 - Instead of diffusing images, diffuse EM design parameters
-- Train on real antenna/circuit designs + performance specs
-- Sample to generate new designs that meet target specifications
+- Train on antenna/circuit designs and performance specs
+- Sample to generate new designs that meet target specs
